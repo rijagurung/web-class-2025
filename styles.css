@@ -1,0 +1,17 @@
+:body{
+    font-family:system-uni, -apple-system,"segoeb UI",
+    Robot,"Noto, Sans jp",sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #05420c;
+    background-color: #b70000;
+    margin: 0;
+}
+.container{
+    max-width:600px;
+    margin:auto;
+    padding:auto;
+    background-color:#0d0785;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(163, 142, 7, 0.1);
+}
